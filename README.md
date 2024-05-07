@@ -162,6 +162,8 @@ i) Using Averaging Filter
 
 ii) Using Weighted Averaging Filter
 
+![Screenshot 2024-05-06 215818](https://github.com/syedmokthiyar/Implementation-of-filter/assets/118787294/adf8c032-273b-4bbd-846b-d0841e5817ae)
+
 
 
 iii) Using Gaussian Filter
